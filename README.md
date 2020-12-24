@@ -7,7 +7,7 @@ Face mask detection Android app:
 - ML Kit FaceDetector
 - TensorFlow Lite custom model (MobileNetV2 [fine tuning](https://github.com/truEngineer/MaskControl/blob/main/mask_detector.ipynb))
 
-MADE Machine Learning hw4
+MADE_ML_HW4
 
 Summary: [pdf](https://github.com/truEngineer/MaskControl/blob/main/MaskControl.pdf) (RU)
 
