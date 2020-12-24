@@ -9,6 +9,8 @@ Face mask detection Android app:
 
 MADE Machine Learning hw4
 
+Summary: [pdf](https://github.com/truEngineer/MaskControl/blob/main/MaskControl.pdf) (RU)
+
 App screenshots:
 
 ![screens](https://github.com/truEngineer/MaskControl/blob/main/images/screens.png)
